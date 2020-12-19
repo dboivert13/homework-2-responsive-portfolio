@@ -8,3 +8,12 @@ card{
     background-color: green;
     
 }
+
+ul{
+    margin-right: -100px;
+}
+
+#float  {
+    float: right;
+
+}
